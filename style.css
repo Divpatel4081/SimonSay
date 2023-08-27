@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819ff9;
+}
+.white{
+    background-color: white;
+}
+.usrgreen{
+    background-color: green;
+}
+.fullRed{
+    background-color:red;
+}

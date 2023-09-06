@@ -1,2 +1,1 @@
-# SimonSay
-Just Basic HTML CSS JavaScript
+Only for underStand DOM Events
